@@ -2,4 +2,5 @@
 I write Rust, Haskell, Lean 4.
 
 ![Hank's GitHub stats](https://github-readme-stats-sigma-ruddy.vercel.app/api?username=HCHogan)
-[![Top Langs](https://github-readme-stats-sigma-ruddy.vercel.app/api/top-langs/?username=HCHogan&layout=compact&exclude_repo=hvim,nvim,plfa&langs_count=8)](https://github.com/HCHogan/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-ruddy.vercel.app/api/top-langs/?username=HCHogan&layout=compact&exclude_repo=hvim,nvim,plfa&langs_count=8&theme=transparent)](https://github.com/HCHogan/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HCHogan)](https://github.com/anuraghazra/github-readme-stats)
